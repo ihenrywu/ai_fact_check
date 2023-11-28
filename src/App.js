@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          点我
+          ChatGPT版 点我
         </a>
       </header>
     </div>
